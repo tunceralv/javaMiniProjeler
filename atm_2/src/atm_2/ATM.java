@@ -49,9 +49,7 @@ public class ATM {
 	   
 		ATM atm=new ATM();
 		atm.islemSec();
-	  /*Login girisYap=new Login();
-	  hesap islem=new hesap();
-	  girisYap.GirisYap();*/
+	
 
 	}
 
